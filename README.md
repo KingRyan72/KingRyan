@@ -6,7 +6,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 - [SQL](#sql)
 - [Python](#python)
 - [Tableau](#tableau)
-- [Machine Learning / Data Science](#MachineLearning/Data Science)
+- [Machine Learning / Data Science](#MachineLearning/DataScience)
 
 # SQL
 
